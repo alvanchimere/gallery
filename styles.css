@@ -1,0 +1,134 @@
+ body{
+    /* background-image: linear-gradient( #070e4b, #0759a0); */
+    background-image: linear-gradient(#0acc7b, #038e97);
+    font-family:'Asap', sans-serif;
+} 
+
+.mybox1{
+    min-height: 200px;
+  
+    margin-bottom: 10px;
+}
+.mybox2{
+    min-height: 200px;
+  
+    margin-bottom: 15px;
+}
+
+
+.dropdown-menu{
+    background-color: #0acc7b;
+} 
+.dropdown-item{
+    color: white;
+    font-size: 20px;
+
+}
+
+.dropdown-item:hover{
+    color: white;
+    background-color: #CDC62E;
+}
+
+
+h1{
+    font-family:'Poppins', cursive;
+    font-size: 3rem;
+    font-weight: bolder;
+
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    margin-bottom: 0rem;
+}
+nav-link{
+    color: #CDC62E;
+}
+.mybox3{
+    min-height: 400px;
+    
+    margin-bottom: 20px;}
+
+    .mybox4{
+        min-height: 400px;
+        background-color: rgb(255, 255, 255);   
+        margin-bottom: 20px;}
+
+        .mybox5{
+            min-height:150px;
+             
+            margin-bottom: 20px;}
+
+            .mybox6{
+                min-height: 400px;
+           
+                margin-bottom: 20px;}
+
+                .mybox7{
+                    min-height: 100px;
+                    margin-top: 10px;
+                    background-color: #012326;
+                    margin-bottom: 20px;}
+     
+                    .mybg1{
+                /* background-color: #f3f3f3; */
+                /* background-image:url(images/image-lion-background.png);  */
+                justify-content: space-between;
+                   min-height: 50px;
+                      }
+        
+
+                .myp{
+                 color: #000000;
+                 font-weight: bolder;
+                 font-size: 30px;
+                }
+                .myh3{
+                    color: #000000;
+                    font-size: 35px;
+                    font-weight: bolder;
+                }
+                .myp2{
+                    color: #886b0b;
+                    font-weight: bolder;
+                    font-family:'Poppins', cursive;
+                    font-size: 25px;
+                }
+                .myp3{
+                    display: inline-block;
+                    color: #CDC62E;
+                    font-weight: bolder;
+                    font-family:'Poppins', cursive;
+                    font-size: 25px;
+                }
+
+                .fas{
+                    text-align: center;
+                    font-size: 55px;
+                padding: 40%;
+                padding-bottom: 2px;
+                padding-top: 8px;
+                color:#04a4af ;
+                }
+                .myp4{
+                    color: #038e97;
+                    font-size: 15px;
+                    font-weight: bold;
+                    font-family:'Poppins', cursive;
+                    text-align: center;
+                    margin-bottom: 100px;
+                }
+                .myfoot a:hover{
+                    color: #046a3f;
+                }    
+                .myfoot{
+                    min-height: 200px;
+                    font-family:'Poppins', cursive; 
+                }
+                .myfoot a{
+                    color: white;
+                    display: block;
+                    text-decoration: none;
+                    margin-bottom: 5px;
+                }
